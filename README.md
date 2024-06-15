@@ -23,9 +23,8 @@ Este é um projeto de exemplo criado com o auxílio do curso da Udemy "Java COMP
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/CarlosMantovani/java_spring.git
    ```
-
 2. Importe o projeto em sua IDE como um projeto Maven.
 
 3. Execute a classe principal `CourseApplication`.
